@@ -1,0 +1,9 @@
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe.config
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.pdb
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csprojResolveAssemblyReference.cache
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.CalcualtorAppUI.resources
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.Properties.Resources.resources
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.GenerateResource.Cache
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.exe
+F:\PRACTICS\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.pdb
